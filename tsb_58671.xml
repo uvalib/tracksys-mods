@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Aeronautic first aid kit</title>
+   </titleInfo>
+   <abstract>The kit is marked with a red cross on the front left side and the words, "Kit, First Aid, Aeronautic, U.S." The kit's back interior section 
+      holds two dyed and sterilized, large field first-aid dressings, U.S. Army Carlisle model. They were made by ACME Cotton 
+      Products Co. Inc., N.Y.C. The front section of the interior holds six packages: triangular, camouflaged, muslin bandage,
+      field brown dressing, guaze bandage, dressing set M-2, and adhesive compresses. A pocket closed with a snap on the front of the kit  
+      contains a tourniquet.</abstract>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <topic>Medical instruments and apparatus</topic>
+      <topic>First aid in illness and injury</topic>
+      <topic>Wounds and injuries-Treatment</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="local" type="corporate">
+         <namePart>A. E. Halperin Co.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">medical equipment</genre>
+      <name authority="local" type="corporate">
+         <namePart>ACME Cotton Products Co.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts01890</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">cloth</form>
+         <form type="material" authority="aat">cardboard</form>
+         <form type="material" authority="aat">metal</form>
+         <extent>12 x 20 x 11 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <dateCreated encoding="edtf" keyDate="yes">1939~/1945~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="staff">Donated by Ann Chopivsky</note>
+      <note type="provenance" displayLabel="staff">Owned by Dr. Chopivsky</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:18:24 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:56:45 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:06:20. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:21. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:28:36.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2016-10-25</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Pocket surgical instrument set</title>
+   </titleInfo>
+   <abstract>This instrument was owned by Dr. James E. Copeland (1845-1937) of Round Hill, Virginia. It was donated to the University of Virginia by Copeland's grandson, Edward V. Copeland, in 1971. Contained in leather and metal case with the following text on the leather: "J.E. Copeland, M.D."; set includes: female catheter;  forceps- metal, Daily and Arnold; bistoury with curved sharp point - plastic and metal, F. AR[_]&amp; Son; aneurism needle- plastic and metal, F.Arnold &amp; Son; finger knife - plastic and metal, F.Arnold &amp; Son; scalpel - plastic and metal; bistoury with curved probe point - plastic and metal; tenaculum - plastic and metal;  probe - sterling; male catheter - metal; abscess lancet - plastic and metal; spatula - metal; fabric thread; 2 cards of Surgeons' twisted silk suture No. 2 and No. 7, Seabury &amp; Johnson, Seabury Pharmacal Laboratories, New York; Surgeon's silk suture No. 2, Fayette manufacturing company, Baltimore Maryland, genuine chinese tsatlee; plaster; two prescription labels - paper, Dr. JE Copeland, Round Hill, Virginia.</abstract>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <subject authority="lcsh">
+      <topic>Medical instruments and apparatus</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="local" type="corporate">
+         <namePart>Francis Arnold &amp; Son</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">medical equipment</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00238</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">metal</form>
+         <form type="material" authority="aat">leather</form>
+         <form type="material" authority="aat">paper (fiber product)</form>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Baltimore, Maryland, United States of America</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1875~/1891~</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:14:10 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:51:46 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:01:53. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:10. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:21:34.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2014-06-16T13:44:16.77-04:00</recordCreationDate>
+   </recordInfo>
+</mods>

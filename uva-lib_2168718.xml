@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>School of Medicine, Fourth Year Class, 1967</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Thompson, Ralph R.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026307_0027.tif</identifier>
+   <abstract>First row (l to r): Brian King, Paul Roy Yoder, John Rees Dunn, John Anthony Thomas, Donald
+Barry Nolan, Charles Henry Emerson, Robert Lindsay Burger, Robert Stanley Brown, Washington Carlyle
+Winn, Richard Thomas Edwards, III, Edgar Lambert Allport, David Michael Murphy, Joseph Franklin
+Smiddy. Second row (l to r): Edward Blease Eadie, Jr., John Carl Spivey, Jr., James Sidney Smith,
+Harold Prebble Settle, Jr., Roy Winston Lutz, Gordon Boyd Newell, Terrence Michael Murphy, Bonnie
+Louis Reshefsky, Bruce McKinley Birch, Charles Arthur Whelan, Norman Louis Burak, William Joseph
+Kagey, George Phillip Hillen, III, Robert Ray Henderson, Omer Lee Jeter, Jr. Third row (l to r):
+Charles Samuel Betts, III, Vivian Winoma Pinn, Rick Allen Moore, RIchard Titus D'Alonzo, Walter
+Lee King, William Wood Gough, Kenneth Edward Greer, Jeffrey Philip Robbins, Thomas Linwood Perry,
+William Keath May, Thomas Eugene Boschen, Edward Gerald Abramson, Robert Eugene Searle, Allen Martin
+Glasgow. Fourth row (l to r): Warden Hamlin Emory, Gordon Humphreys Smith, William Emory Cooley,
+Jr., Louis Sutherland Allen, Jr., William Grier Kepler, Gary Calvert Jobin, James Ellis Dill, David
+William Scott, III, Macdonald Dick, II, John Brantley Sydnor, Richard Hoppe Briggs, John Markle
+Costenbader, Douglas Stephen Rowe, George Z. Seiters. Fifth row (l to r): Igor Magier, Samuel
+Morgenstern LeBauer, Ernest Perry Buxton, III, Bryan Tighe Woods, John Lewis Starling, Henry
+Claiborne Hawthorne, Jr., Thad Leroy Jones, George William Booze, David Rinser Bickers.</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints21447</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1967</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:08:42 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:56:33. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:55. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:12:37.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:20:11.07Z</recordCreationDate>
+   </recordInfo>
+</mods>

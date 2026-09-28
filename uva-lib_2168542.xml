@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Fourth Year Class, 1930-1931</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026306_0051.tif</identifier>
+   <abstract>SOM, Class of 1931 Identified (from left to right): First row: John Jacquelin Ambler, Howard
+Hicks Ashbury, Harloe Bailey, Philip Bress, William Ambrose Brown, Jr., Charles Crawford Canada,
+George Daniel Capaccio, William Morgan Chew, John Bradley Cousar, Adam Tyree Finch, Jr., Carlyle
+Gregory Flake Second row: Samuel Howard Garst, Alexander Gordon Gilliam, Robert Earle Glendy, Meyer
+Goldstein, Samuel Butler Grimes, Peter Allen Haley, II, Winthrop Huntington Hall, Weldon Merritt
+Harloe, Ruth Schwartz Hart, Clifton K. Himmelsbach, Angus Hinson Third row: Harry Gilman Hudnall,
+John Thomas James, Ernest Lee Jones Jr., Harry Raphel Kelly, Charles Fuller Kincheloe, Jr., Thomas
+Preston McKee, Arthur Mazyck, Jr., Lodwick Sterrett Meriwether, William Maryon Moir, Margaret
+Elizabeth Moriarty, Timothy John Nash Fourth row: William Henry Parker, John Hamilton Scherer, Alice
+Elsa Schowalter, Asa Elmore Seeds, Eldridge Cook Simmons, Melville Dwight Smith, Jack Spencer, Ben
+Steingold, Emilie Caroline Strohman, Albert Chesterfield Stutsman, Walter Lee Thomas, Jr., Fifth
+row: Dawson Edward Watkins, Jr., Bliss King Weems, William Massie Whitehead Individual photos on
+left column: Top photo: Dewey Loring Anderson Bottom left: Herman Michel Levine Bottom right: Joseph
+William Houck</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">Class list from the University of Virginia Record included in folder, Full size duplicate in prints21272</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints21271</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1930/1931</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:08:35 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:56:26. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:54. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:12:18.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:19:35.354Z</recordCreationDate>
+   </recordInfo>
+</mods>

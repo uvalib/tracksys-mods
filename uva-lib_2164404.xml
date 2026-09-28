@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Alderman Library</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Gerow, Jennifer</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">color negatives</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026285_0113.tif</identifier>
+   <abstract>From excerpt on back: The Papers of George Washington in Alderman Library received a special visitor last week. Washington himself stopped by the office to peruse his papers. 
+Okay, we cannot tell a lie. It was not really the nation's father, but historical interpreter James Renwick Manship, a member of Mount Vernon's board of visitors, who was in town for Charlottesville's annual Thanksgiving festival.
+Washington issued his landmark Thanksgiving Proclamation, beginning the national holiday tradition, in 1789 at the urging of Congress. 
+Letters and documents written by Washington, as well as correspondence written to him, will eventually be published in approximately 90 volumes by The Papers of George Washington, a grant-funded project established at UVa in 1969 under the joint auspices of the University and the Mount Vernon Ladies' Association of the Union. Forty-four volumes are now finished. </abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia. News Office</namePart>
+      </name>
+      <topic>Press coverage</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints11419</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1999-10</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Media Relations, University of Virginia Office of Public Affairs, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:05:30 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:52:50. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:46. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:06:44.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T17:23:24.508Z</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>School of Medicine, First Year Class, 1948-1949</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026306_0159.tif</identifier>
+   <abstract>First row (l to r): Kenneth William Berger, Albert William Biggs, Frank Stoddert Blanton, Jr.,
+Loyd Warren Bond, Milton Henry Brockmeyer, Melvin Hugh Burke, Randolph Catlin, Jr., Quintin Oswald
+Carr, William Belfield Cave, Ben Lake Critzer, Jesse Wesley Cumbia, Nicholas Edward Davies, Meade
+Castleton Edmunds, Jr. Second row (l to r): Richard Thomas Ellison, Jr., Julia Langhorne Emmett,
+James Edge Faris, Jr., Martin Paul Fischer, James Mitchell Fite, Richard Orville Flynn, Gustave
+Lennard Gold, Harold Louis Goldman, William Stuart Greenspon, Robert Humphrey Gruver, William
+McLaurine Hall, III, Euclid Murden Hanbury, Jr., John Frederick Harlan, Jr. Third row (l to r):
+Kenneth Stebbins Helenbolt, Louis Reams Hundley, Holcombe Harris Hurt, Jr., Robert Mercier Hutt,
+Preston Lankford Jones, Robert Claggett Jones, Robert Stanley Kaplan, Harvey David Karkus, Charles
+Hunter Leys, Lionel Melvin Lieberman, James Watts Lippscomb, Mary Jane Luke. Fourth row (l to r):
+Arturo Torres Machin, Henry Page Mauck, Jr., Jason Eugene McClellan, Robert Earll McConnell, Jr.,
+James Porter McNeil, Jr., Richard Hardaway Meade, III, John Girardeau Murray, James Linwood Odom,
+John Edward Osbourne, Edgar Elliott Peltz, William Clarke Pole, James Whitmell Ransone, William
+Norton Reingold, Nelson Glasgow Richards. Fifth row (l to r): Gilbert Fletcher Rieman, Marion Moore
+Sherman, Jr., Joseph H. Smith, James Roger Smith, Charles Hallacy Spencer, Aubrey Granville Tolley,
+Fred Wasserman, Robert Basye Webb, Jr., Charles Robinson Wicke, Adna Godfrey Wilde, Jr., Armistead
+Marshall Williams, George Edward Wire, Jr., Edward Ashby Woods, Jr., William Harvey Whitmore,
+Jr.</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints21379</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1948/1949</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:08:39 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:56:30. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:55. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:12:27.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:19:48.256Z</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Microscope slides</title>
+   </titleInfo>
+   <abstract>Slides contained in wooden box bearing the inscription: H.N Mason Pathology. On back of lid is written: "These slides were used by H. Norton Mason, M.D 
+      while a student at The University of Virginia School of Medicine 1900-04. He practiced in Richmond. 1908-53. Living and well in 1975." Box includes grooves for 25 slides, 
+      numbered 1-25. Labeled slides include: Adeno Carcinoma of Cervix, Cloudy swelling of kidney, Adeno Carcinoma of Cervix, Epithelioma of Lip, Bacil Tubercula, Gumma of liver, 
+      Retention Cyst of Fallopian Tube,  Cystoma of ovary, Fatty degenration of liver, Adenoma of breast, Alveola and Sarcoma Testis, Tuberculosis of lung, 
+      Chondro Sarcoma of Uterus, Myoma of Broad Lig, Milaus Sarcoma Pubic Wart,  Lipoma of Nack, Carcinoma of uterus, Giant celled sarcoma of jaw, inflamed lymph node, 
+      Naceres of Back, scirrhus carcinoma of breast, fibroma of uterus.</abstract>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <subject authority="lcsh">
+      <topic>medical instruments or apparatus</topic>
+      <topic>microscope slides</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <genre authority="aat">medical equipment</genre>
+      <genre authority="aat">slides (microscopy)</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00734</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">glass (material)</form>
+         <form type="material" authority="aat">wood (plant material)</form>
+         <form type="material" authority="aat">paper (fiber product)</form>
+         <extent>3.5 x 17 x 8 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">United States of America</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1900~/1904~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="Staff">Donated by H. Norton Mason</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:14:58 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:52:46 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:02:35. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:12. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:22:51.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2015-08-19</recordCreationDate>
+   </recordInfo>
+</mods>

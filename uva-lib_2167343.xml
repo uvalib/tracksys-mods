@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Dr. Carl C. Speidel</title>
+   </titleInfo>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026300_0052.tif</identifier>
+   <abstract>From the Medical Alumni News Letter, May 1964: "When Dr. Carl C. Speidel, Professor of
+Anatomy at the University of Virginia School of Medicine, retires on June 30, he will end the
+longest tenure of any member of the medical faculty,....forty-four years, with last thirty-three as
+a full professor.... He is especially noted for the ingenuity with which he has used familiar
+instruments -- the microscope and the movie camera -- to reveal important facts about cells. Because
+he was the first to learn all the secrets of nerve growth by studying nerves inside animal
+organisms, thus settling a scientific controversy that had lasted for seventy years, he received the
+coveted $1,000 prize of the American Association for the Advancement of Science, given for 'a
+notable contribution to science.' The presentation was made at the annual meeting of the
+Association in New Orleans on January 1, 1932. Dr. Speidel was thirty-eight at the time, and had
+just been made a full professor. Professor G. H. Parker of Harvard University, chairman of the
+committee to select the winner, said: 'Dr. Speidel has proved once and for all that nerves do
+not grow as a result of cells forming a chain, but that each nerve grows out of a single cell in a
+central nervous system. This establishes the "outgrowth theory" of nerves as opposed to
+the "chain theory."' No one had been able to check the out-growth on a living animal
+before. Dr. Speidel started to study the development of the nerves by entirely novel methods, using
+the dark-field illumination method to study nerves in the living animal. Instead of the light coming
+from above the microscope, h e had the light come from the sides, resulting in better visibility.
+Thus over a period of weeks he was able to see what nerves branch out from the spiral column and
+spread, like the roots and branches of a plant, into all parts of the body. He found that nerves
+went almost uncannily to the place they were intended for, and that they were quite sensitive to
+their environment, with exploratory processes being continually sent out and retracted. His lighting
+method also enabled him to see that a cut nerve cannot be spliced and made to function again,-- that
+new nerve material must grow out from the root to repair the damage. Dr. Speidel's discovery
+was heralded, not only in scientific journals, but as the 'lead' story on the front page
+of the New York TIMES of January 2, 1932, with headlines proclaiming 'Dr. C. C. SPEIDEL WINS
+SCIENCE PRIZE -- FINDS NERVE SECRETS SOUGHT FOR 70 YEARS: "CHAIN" THEORY IS UPSET --
+Strands Are Found to Start from Single Cells and Explore Their Way Past Obstacles.' This was
+big news, exciting news, in 1932. TIME Magazine featured Dr. Speidel's achievement as a major
+scientific break-through, and in its issue of January 11, 1932 carried a story of his winning the A.
+A. A. S. award with a typical TIME heading: 'Carl Caskey Speidel...looked into a tadpole's
+tail.' This was one of many brilliant achievements which have brought honors and awards to Dr.
+Speidel. His fields of original investigations have included experimental studies of nerve fibers,
+sense organs, muscle fibers, hyperthyroidism, neuro-secretion, blood cells; effects of radiation
+(X-Ray and ultraviolet) on cells; and microscopic movies of cell behavior (made directly from the
+experimental animals).... Dr. Speidel was born on October 26, 1893 in Washington, D.C. He received
+the Ph.B. degree from Lafayette College in 1914, and Ph.D. degree in biology from Princeton
+University in 1918...."</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">Negative included in folder</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Health System</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia. News Office</namePart>
+      </name>
+      <topic>Press coverage</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem displayLabel="Original" type="original">
+      <identifier type="legacy" displayLabel="Prints Number">prints20071</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1964-05</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Appears in" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <title>UVa Medical Allumni News Letter</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>May 1964</number>
+         </detail>
+      </part>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-14T13:55:38 using normalizeMODS.xsl, 0.1 beta. Normalized 2019-11-15T21:07:37 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:55:34. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:52. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:10:44.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:20:08.244Z</recordCreationDate>
+   </recordInfo>
+</mods>

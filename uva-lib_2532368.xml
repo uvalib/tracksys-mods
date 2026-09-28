@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>World War I nursing insignia</title>
+   </titleInfo>
+   <abstract>Items include: Red Cross Volunteer name plate, Mrs. C.C. Akers; Pin, Red Cross Home Nursing; Bar, Red Cross; Button, British (?) Crown; Button, U.S. Eagle; 
+      Pin, Army Nurses Corps (Caduceus); Pin, Red Cross 50 Years; Pin, Red Cross 45 Years; Pin, Crux S.P. Benedicti; Pin, Red Cross Instructor Home Nursing; 
+      Buttons, unknown pair; Red service stripes, belonging to Ella Thomas Whitten; Cross medal with ribbon, Fortes Creantur Fortibus (1917-1918, 1861-1865); 
+      Patch, American Red Cross Volunteer; Lapel insignia, U.S.; Patch, American Red Cross Nurse; Button, Flaming cannonball (?) design.</abstract>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <topic>Armed forces--insignia</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="lcnaf" type="corporate">
+         <namePart>American Red Cross</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">insignias</genre>
+      <genre authority="aat">badges</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00800</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">cloth</form>
+         <form type="material" authority="aat">metal</form>
+         <extent>21.5 x 33.3 x 2 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">United States of America</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1917~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="Staff">Owned by Ella Thomas Whitten</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:14:56 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:52:44 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:02:33. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:12. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:22:47.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2015-06-26</recordCreationDate>
+   </recordInfo>
+</mods>

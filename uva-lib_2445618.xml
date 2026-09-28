@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Stratford</title>
+   </titleInfo>
+   <name authority="lcnaf" type="personal">
+      <namePart>Johnston, Frances Benjamin, 1864-1952</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+      </role>
+   </name>
+   <genre authority="lctgm">Architectural photographs</genre>
+   <genre authority="aat">gelatin silver prints</genre>
+   <physicalDescription>
+      <internetMediaType>image/tiff</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract displayLabel="Description">Exterior, view from se. Photographed ca. 1929-1935. Birthplace of Robert E. Lee, Richard Henry  Lee, and Francis Lightfoot Lee. Building Date: 18th Century. Westmoreland County, Virginia.</abstract>
+   <subject authority="lcsh">
+      <topic>Historic buildings</topic>
+      <geographic>Virginia</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="personal" authority="lcnaf">
+         <namePart>Johnston, Frances Benjamin</namePart>
+         <namePart type="date">1864-1952</namePart>
+      </name>
+   </subject>
+   <subject>
+      <topic>Historic houses</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Plantations</topic>
+   </subject>
+   <subject>
+      <topic>Vernacular architecture</topic>
+   </subject>
+   <subject>
+      <topic>Architecture</topic>
+   </subject>
+   <subject>
+      <topic>Gable-on-hip roofs</topic>
+   </subject>
+   <subject>
+      <topic>Chimneys (architectural elements)</topic>
+   </subject>
+   <subject>
+      <topic>Piano nobile</topic>
+   </subject>
+   <subject>
+      <topic>Staircases</topic>
+   </subject>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <continent>North America</continent>
+         <country>United States</country>
+         <state>Virginia</state>
+         <county>Westmoreland</county>
+      </hierarchicalGeographic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="local" displayLabel="Slide Call Number">Johnston,FB-PHOTO-56-14</identifier>
+      <identifier type="local" displayLabel="Iris ID">106693</identifier>
+      <identifier type="local" displayLabel="Legacy Tiff Name">060717c_052.tif</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <originInfo>
+         <dateCreated encoding="edtf" keyDate="yes">1929/1935</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Frances Benjamin Johnston Photographs</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Fiske Kimball Fine Arts Library, University of Virginia Libraries, Charlottesville, Va.</physicalLocation>
+      </location>
+   </relatedItem>
+   <relatedItem type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <title>Carnegie Survey of the Architecture of the South</title>
+      </titleInfo>
+      <name authority="lcnaf" type="personal">
+         <namePart>Johnston, Frances Benjamin, 1864-1952</namePart>
+         <role>
+            <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+            <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <dateCreated encoding="edtf">1927/1943</dateCreated>
+      </originInfo>
+      <location>
+         <physicalLocation>Fiske Kimball Fine Arts Library, University of Virginia Libraries, Charlottesville, Va.</physicalLocation>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:14:45 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:02:22. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:11. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:22:29.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2014-03-19T13:59:35.102-04:00</recordCreationDate>
+   </recordInfo>
+</mods>

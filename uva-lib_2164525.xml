@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Visiting speaker Sylvester Stallone</title>
+   </titleInfo>
+   <name type="personal">
+      <namePart>Arrington, Rebecca</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white negatives</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026286_0034.tif</identifier>
+   <abstract>From excerpt: Sylvester Stallone visited the University on October 3, 1991 at the invitation of third-year student Louisa Santarelli, whose father is Stallone's lawyer. After a tour of Grounds, he joined Robert Chapel, drama professor and department chair, for a question and answer session with drama majors, minors and others who were able to get tickets. When asked how one should prepare for an acting career, Sly replied, "Update your portfolio, but keep it simple; believe you're in the top 10 percent - there's a 90 percent failure rate in 'the business'; and, last of all, lie on your resume -- even if you haven't done it that part [?], you want to and will some day." A somewhat red-faced Chapel said, "We don't teach that here."</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia. News Office</namePart>
+      </name>
+      <topic>Press coverage</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints11540</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1991-10</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Appears in" type="series">
+      <titleInfo>
+         <title>Inside UVa</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>21 </number>
+         </detail>
+         <detail type="issue">
+            <number>18</number>
+         </detail>
+      </part>
+      <location>
+         <physicalLocation>Media Relations, University of Virginia Office of Public Affairs, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:05:35 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:53:00. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:46. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:06:58.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T17:23:55.86Z</recordCreationDate>
+   </recordInfo>
+</mods>

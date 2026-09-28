@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+      <mods:title>DPLA Collection Record for UVA Digital Library Text Collections</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3">
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3">
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </mods:originInfo>
+   <recordInfo>
+      <recordOrigin>Created programmatically by the Digital Curation Services Tracking System. Normalized 2019-11-15T20:45:30 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:33:35. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T15:57. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T17:35:27.</recordOrigin>
+      <mods:recordContentSource xmlns:mods="http://www.loc.gov/mods/v3" authority="marcorg">viu</mods:recordContentSource>
+      <mods:recordCreationDate xmlns:mods="http://www.loc.gov/mods/v3" encoding="iso8601">20130613</mods:recordCreationDate>
+      <mods:languageOfCataloging xmlns:mods="http://www.loc.gov/mods/v3">
+         <mods:languageTerm type="code" authority="rfc3066">en</mods:languageTerm>
+      </mods:languageOfCataloging>
+   </recordInfo>
+</mods>

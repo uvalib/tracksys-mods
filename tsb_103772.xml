@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Dental key</title>
+   </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <subject authority="lcsh">
+      <topic>Dental instruments and apparatus</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <genre authority="aat">medical equipment</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00862</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">metal</form>
+         <form type="material" authority="aat">ivory (material)</form>
+         <extent>2.3 x 13.7 x 8 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <dateCreated encoding="edtf" keyDate="yes">1850~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="staff">Donated by W.O. Klingman</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An
+        appointment must be made with historical collections staff at the Claude Moore Health
+        Sciences Library to view the physical artifact. There are no restrictions on access to the
+        digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:21:55 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T21:00:05 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:09:36. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:30. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:34:25.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2019-06-12</recordCreationDate>
+   </recordInfo>
+</mods>

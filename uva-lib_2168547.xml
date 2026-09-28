@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>School of Medicine, Second Year Class, 1930-1931</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026306_0056.tif</identifier>
+   <abstract>Class of 1933 Identified (L to R): First row: Charles Jefferson Albright, Charles Varner
+Amole, Edwin Edmunds Barksdale, Nathaniel Lewis Bosworth, Jr., Hugh Roland Butt, William Bernard
+Carpenter, Charles Henry Conley, Jr., Cesare Frances DeBiase, John Essary Dees, Clayton Bernard
+Ethridge, Glassell Slaughter Fitz-Hugh, Harrison Fitzgerald Flippin, Edgar Coley Garrard, William
+Grossman, Jr. Second row: Henry Hamilton Hammer, Wallace Edgar Herrell, Joseph Martin Hitch, Jr.,
+John Bohannan Hozier, Jr., Jethro Meriwether Hurt, Frederick Matthews Jacobs, William Roy Johnson,
+Colman Carnegie Johnston, Robert Archer Goodwin Jones, Walter LeRoy Kilby, Edward Linden Kinney,
+Gershon John Levin, Eleanor Holman McCoy, Hulburt Christopher McCoy Third row: Lewis Walke McIlhany,
+Edgar Prentice McKinney, Roger Gregory Magruder, Charles Hampton Mauzy, Jr., Thomas Andrew
+Moneymaker, Harold George Nix, Isaac Nathan Patterson, Asher Richardson Payne, Frederick Ralph
+Person, Jack Berry Porterfield, Charles Walton Purcell, William Alexander Read Fourth row: Charles
+Wolfe Rieber, William Randolph Robins, Jr., John Adrian Sims, John Thompson Brown Strode, John A.
+Moorman Thompson, George Nathaniel Thrift, John Watkins Trenis, Robert Irvine Trent, Randolph Beaton
+Turnbull, Algernon Keeling Turner, Vernon Atwill Turner, Wat Henry Tyler Fifth row: Ernest Thomas
+Upson, John Ernest Vaughan, George Edward Waters, Herman Weinberg, Robert William White, Jr.,
+William Hoge Wood, Jr.</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">Negative and 4 x6 duplicate included in folder.</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints21276</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1930/1931</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:08:35 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:56:26. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:54. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:12:18.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:19:35.531Z</recordCreationDate>
+   </recordInfo>
+</mods>

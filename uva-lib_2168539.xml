@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title> Fourth Year Class, 1929-1930</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026306_0048.tif</identifier>
+   <abstract>SOM, Class of 1930 Identified, from left to right: Top row: Richard F. Slaughter Jr., Robert
+E. Odom, William O. Purdy, Archibald A. Little Jr., Achilles L. Tynes Jr., Lewis B. Sheppard,
+Frederick M. Morrison, William M. Gammon, Harold H. McLemore, J. R. Eggleston, Thomas L. Watson Jr.,
+Dorothy D. Brame, Daniel B. Pierson Jr., William H. Paine Jr. Second row: Beverly K. Peter, Ernest
+S. Elliott, Henry R. Bourne, Oliver L. Von Canon, Benjamin W. Rawles Jr., James E. Wissler, Richard
+E. White, H. T. Marshall (Pathology and Bacteriology), Paul H. Revercomb, Julian E. West, Thomas L.
+Allman, Prosser H. Picot, William C. Wills, Charles Keppler Jr., Charles B. Smith Third row: Robert
+L. Wells, Paul S. Hill, Eugune B. Ferris Jr., George T. Gwathmey Jr., J. A. Waddell (Materia-Medica
+and Pharmacology), H. E. Jordan (Histology and Embryology), [skip center photo], E. P. Lehman
+(Surgery and Gynecology), J. E. Kindred (Histology and Embryology), John D. Peake, Charles W.
+Rodgers, Hill Carter III, William H. Roper Fourth row: Southgate Leigh Jr., Paul Kells, Edward S.
+Orgain, H. B. Mulholland (Medicine), W. E. Brown (Phthisiotherapy), [skip center photo], J. H. Neff
+(Urology), D. C. Smith (Dermatology and Syphilology), Alfred C. Ray Jr., William L. Sibley, Emory L.
+Shiflett Center photo: Dr. J. C. Flippin - Dean Fifth row: William A. Brumfield Jr., Joseph H.
+Farrow, Joel L. Deuterman, James E. Amiss, V. W. Archer (Roentgenology), W. E. Bray (Clincal
+Diagnosis), H. S. Hedges (Ophthalmology), L. T. Royster (Pediatrics), W. H. Goodwin (Surgery), K. F.
+Maxcy (Health and Hygiene), John C. Palmer, Walter J. Allegree, Dewey L. Anderson, Morton M.
+Pinckney Sixth row: Alexander T. Mayo, Bergliot Stromsoe, Allan E. Walker Jr., C. C. Speidel
+(Anatomy), L. A. Calkins (Gynecology and Obstetrics), J. E. Wood (Medicine), A. F. Voshell
+(Orthopedics), R. B. Bean (Anatomy), F. D. Woodward (Otolaryngology ), F. B. Carter (Obstetrics), S.
+D. Blackford (Medicine), James P. King, Manfred Call III, Robert B. Skinner Seventh row: Alfred W.
+Pinkerton, D. C. Wilson (Psychiatry-Neurology), A. D. Hart (Medicine), O. Swineford (Medicine), T.
+F. Brumfield (Bacteriology and Pathology), H. W. Smith (Physiology), F. B. Stafford
+(Phthisotherapy), E. S. Sanderson (Pathology and Bacteriology), R. M. Meade (Surgery), W. W. Waddell
+(Pediatrics), C. B. Morton (Surgery), A. Chanutin (Biochemistry), R. T. Ergenbright (Orthopedics),
+Joseph P. Coco</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">Note from donor, Eleanor McConkey, on back</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints21268</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1929/1930</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:08:34 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:56:26. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:54. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:12:17.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T20:19:35.046Z</recordCreationDate>
+   </recordInfo>
+</mods>

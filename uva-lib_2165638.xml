@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Virginia Law Review 1924-1925</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026291_0147.tif</identifier>
+   <abstract>Including members of the Class of 1925, Class of 1926, Class of 1927 and Class of 1928.  Thomas M. Anderson, Walter L. Brown, Leonard J. Calhoun, W. Alonzo Carter, Jr., LeRoy R. Cohen, Paul H. Coleman, Edwin H. Copenhaver, Jr., William N. Ellis, Otho E. Falls, Jr., Mansfield C. Fuldner, Claude L. Gray, J. O'Dell Gregory, Robert C. Grove, Richard W. Hagan, Jr., Edwin D. Kyle, Jr., J. M. B. Lewis, Jr., Frederick J. Lotterhos, James B. Lovelace, Jr., John M. Manning, LeRoy H. Margolius, C. Venable Minor, Charles P. Nash, Nathan H. Nelson, Nathan S. Poffenbarger, George P. Raney, Jr., Clarence W. Robinson, Jr., Henry Savage, Jr., F. Virginius Watkins, W. Erskine Watkins, Bert G. Wetherby, R. Harral Whilden, F. Black Whitescarver.</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">Law Library/RG 106/Students/Va. Law Review 1924-25 RMDS Disclaimer: poor quality of the production.</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints14279</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1924/1925</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Appears in" type="series">
+      <titleInfo>
+         <title>Corks and Curls 1925</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>38</number>
+         </detail>
+      </part>
+      <location>
+         <physicalLocation>Special Collections, Arthur J. Morris Law Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+      <identifier type="legacy accession number" displayLabel="Originating Collection">RG 106</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T21:06:26 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:54:11. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:48. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:08:25.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T17:32:17.761Z</recordCreationDate>
+   </recordInfo>
+</mods>

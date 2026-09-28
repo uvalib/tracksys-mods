@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Hemoglobinometer</title>
+   </titleInfo>
+   <abstract>Contained in a leather care; set includes: hemoglobinometer device, plastic attachment, lens, wax and string, candle holder. Inside sticker reads: "This certifies that Dare Hemoglobinometer No. 5199 has been examined and approved." 
+      Sticker is signed by Arthur Dare and dated February 19, 1920. Imprint in faded gold reads: "The Dare Hemoglobinometer, Made by Rieker Instrument Co., 1919-1921 Fairmont Ave. Philadelphia, Pa. U.S.A." Graded 90-100.</abstract>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <topic>Medical instruments and apparatus</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="local" type="corporate">
+         <namePart>Rieker Instrument Company</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">medical equipment</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00945</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">metal</form>
+         <form type="material" authority="aat">glass (material)</form>
+         <form type="material" authority="aat">plastic (organic material)</form>
+         <form type="material" authority="aat">leather</form>
+         <extent>4.5 x 16.7 x 10.6 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Philadelphia, Pennsylvania, United States of America</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1920~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="staff">Donated by J. T. Thorton, Jr.</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:18:24 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:56:45 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:06:20. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:21. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:28:37.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2016-10-18</recordCreationDate>
+   </recordInfo>
+</mods>

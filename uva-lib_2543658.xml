@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Digital sphygmomanometer</title>
+   </titleInfo>
+   <abstract>Copal (brand) digital sphygmomanometer UA-251; includes device, arm cuff, rubber hose, plastic case, and instruction manual.</abstract>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <subject authority="lcsh">
+      <topic>Medical instruments or apparatus</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="local" type="corporate">
+         <namePart>COPAL</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">medical equipment</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00824</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">plastic (organic material)</form>
+         <form type="material" authority="aat">fabric</form>
+         <form type="material" authority="aat">paper (fiber product)</form>
+         <form type="material" authority="aat">metal</form>
+         <extent>8 x 26 x 17 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Japan</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1980~/1995~</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:14:57 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:52:45 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:02:34. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:12. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:22:49.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2015-08-19</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Red Cloud Liver Berries</title>
+   </titleInfo>
+   <abstract>Empty vial. Label reads "Red Cloud Liver Berries, Registered in the U.S. Patent Office. For sick headache, biliousness, constipation, indigestion, dyspepsia, disorders of the stomach, liver and bowels."</abstract>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <topic>Medical instruments and apparatus</topic>
+      <topic>Oral medication</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <name authority="local" type="corporate">
+         <namePart>H. C. Clarke &amp; Sons, Inc.</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+            <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
+         </role>
+      </name>
+      <genre authority="aat">medical equipment</genre>
+      <genre authority="aat">medicine bottles</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00853</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">glass (material)</form>
+         <form type="material" authority="aat">metal</form>
+         <form type="material" authority="aat">paper (fiber product)</form>
+         <extent>6.4 x 1.8 x 1.8 cm</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Baltimore, Maryland, United States of America</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1900~/1950~</dateCreated>
+      </originInfo>
+      <note type="provenance" displayLabel="staff">Donated by Ralph M. Curt</note>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:18:26 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:56:52 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:06:22. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:21. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:28:40.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2016-11-30</recordCreationDate>
+   </recordInfo>
+</mods>

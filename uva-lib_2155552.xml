@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Faculty</title>
+   </titleInfo>
+   <name authority="lcnaf" type="corporate">
+      <namePart>Holsinger's Studio (Charlottesville, Va.)</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="aat">albumen prints</genre>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000026241_0061.tif</identifier>
+   <abstract>Faculty photo. Excerpt, front row (left to right): James M. Page, University President Edwin A. Alderman, William M. Thornton.  Row 2: Milton W.Humphreys, Charles G. Maphis, Theodore Hugh, Richard H. Dabney, William M. Lyle, Raleigh C. Minor, John S. Davis, Charles A. Graves, William H. Echols, Francis P. Dunnington.  Row 3: Robert M. Bird, Halsted S. Hedges, Thomas L. Watson, Albert LeFevre, William A. Lambeth, Richard H. Wilson, Stephen H. Watts, John L. Manahan.  Row 4: Howard Winston, William H. Faulkner, Charles Hancock, Samuel A. Mitchell, John L. Newcomb, James C. Flippin, Harvey E. Jordan, George B. Eager, Ivey F. Lewis, Harry T. Marshall.  Row 5: Isaac K. Moran, Charles W. Paul, James S. Wilson, Fiske Kimball, George O. Ferguson, Jr., Graham Edgar, Albert G.A. Balz, John C. Metcalf, William A. Kepner, Walter S. Rodman, James A. Waddell.  Row 6: William D. Macon, Chapin Jones, Robert B. Bean, John J. Luck, Albert W. Giles, Tipton R. Snavely, William R. Warren, Wilfred Eldred, Herman P. Johnson, Caroll M. Sparrow, William H. Goodwin, Arthur Fickenshur.  Row 7: William D. Macon, Charles H. Huffman, Gardner L. Carter, Francis H. Abbot, Ernest L. Lehman, James S. McMcKemore, Charles P. Oliner, W. Patton Graham, William E. Bray, Thomas F. Ball.  back: Carl C. Speidel, John H. Yoe, Bruce S. Williams, William E. Knight, Harold L. Alden, Edward W. Saunders.</abstract>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+   </physicalDescription>
+   <note type="admin">original in Alderman #1001</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Prints Number">prints01710</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+      </physicalDescription>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative">Neg 4x5 1239E</note>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1921</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Special Collections, University of Virginia Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number">RG-30/1/10.011</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Created programmatically by Digital Curation Services. Normalized 2019-11-15T20:57:28 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:45:36. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:27. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T17:55:09.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-11-15T17:29:18.462Z</recordCreationDate>
+   </recordInfo>
+</mods>

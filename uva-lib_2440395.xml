@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Ancient Roman "Fish" type spatula (replica)</title>
+   </titleInfo>
+   <abstract>Replica of an ancient Roman "fish" type spatula from the first century A.D. Most likely a replica of a variation of instrument number 127 cataloged in the following source: Bliquez, L.J. (1994) Roman surgical instruments and other minor objects in the National Archaeological Museum of Naples. Manz, von Zabern. Donated to the University of Virginia by members of the 8th Evacuation Hospital Unit of the United States Army.</abstract>
+   <physicalDescription>
+      <digitalOrigin>born digital</digitalOrigin>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <topic>Medicine, Greek and Roman</topic>
+   </subject>
+   <note type="local">Photographed by Claude Moore Health Sciences Library, Historical Collections and Services staff.</note>
+   <subject authority="lcsh">
+      <topic>Medical instruments and apparatus</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <genre authority="aat">medical equipment</genre>
+      <typeOfResource>three dimensional object</typeOfResource>
+      <identifier type="legacy" displayLabel="retrieval ID">artifacts00190</identifier>
+      <physicalDescription>
+         <form type="material" authority="aat">bronze (metal)</form>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Italy</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1944~</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Medical Artifacts Collection</title>
+      </titleInfo>
+      <location>
+         <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">An appointment must be made with historical collections staff at the Claude Moore Health Sciences Library to view the physical artifact. There are no restrictions on access to the digital image of the artifact.</accessCondition>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Transformed from Filemaker Pro Medical Artifacts Database record and edited manually by historical collections staff in the Claude Moore Health Sciences Library. Normalized 2019-11-15T21:14:08 using normalizeMODS.xsl, 0.1 beta. Updated 2019-11-25T20:51:45 using updateMedicalArtifacts.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T16:01:51. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:09. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:21:31.</recordOrigin>
+      <recordContentSource authority="marcorg">viuh</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2014-05-29T10:49:16.807-04:00</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>Building Burke County Training School</title>
+   </titleInfo>
+   <name authority="lcnaf" type="personal">
+      <namePart>Davis, Jackson, 1882-1947</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <genre authority="lctgm">Negatives</genre>
+   <genre authority="aat">black-and-white photographs</genre>
+   <physicalDescription>
+      <internetMediaType>image/tiff</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Full view</abstract>
+   <subject>
+      <topic>Burke County (Ga.)</topic>
+      <topic>Regions and states by name</topic>
+   </subject>
+   <subject>
+      <topic>Georgia</topic>
+      <topic>Regions and states by name</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+      <topic>Single built works by function</topic>
+   </subject>
+   <subject>
+      <topic>South (U.S.)</topic>
+      <topic>Regions and states</topic>
+   </subject>
+   <subject>
+      <topic>African Americans</topic>
+      <topic>People by ethnic group</topic>
+   </subject>
+   <subject>
+      <topic>Outbuildings</topic>
+      <topic>Single built works by location or context</topic>
+   </subject>
+   <subject>
+      <topic>Education</topic>
+      <topic>Social sciences</topic>
+   </subject>
+   <subject>
+      <topic>Institutional buildings</topic>
+      <topic>Single built works by function</topic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="UVa Fine Arts Identifier">192679</identifier>
+      <identifier type="legacy" displayLabel="UVa Fine Arts Identifier">96702</identifier>
+      <identifier type="legacy" displayLabel="Negative Number">3017</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+         <form type="technique">photography</form>
+         <extent>4 x 6 in.</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xxu</placeTerm>
+            <placeTerm type="text">United States</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1927-07</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Jackson Davis Collection of African American Photographs</title>
+      </titleInfo>
+      <name authority="lcnaf" type="personal">
+         <namePart>Davis, Jackson, 1882-1947</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem displayLabel="Digitized from" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <title>Papers and photographs of Jackson Davis [manuscript] 1906-1947 and n.d.</title>
+      </titleInfo>
+      <name authority="lcnaf" type="personal">
+         <namePart>Davis, Jackson, 1882-1947</namePart>
+      </name>
+      <originInfo>
+         <dateCreated encoding="edtf">1906/1947</dateCreated>
+      </originInfo>
+      <identifier type="local">MSS 3072, 3072-a</identifier>
+      <location>
+         <url>http://search.lib.virginia.edu/catalog/u2884151</url>
+      </location>
+      <location>
+         <physicalLocation>Special Collections, University of Virginia Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number" displayLabel="Collection Accession Number">MSS 3072, 3072-a</identifier>
+      <identifier type="local" displayLabel="UVa EAD ID">viu01291</identifier>
+      <accessCondition type="restriction on access" displayLabel="Access to the Collection">There are no restrictions for accessing this material.</accessCondition>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <genre displayLabel="legacy set code">UVA-LIB-Image</genre>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <genre displayLabel="legacy set code">UVA-LIB-ArtArchit</genre>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <genre displayLabel="legacy set code">UVA-LIB-JacksonDavis</genre>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>These objects were extracted from IRIS using the iris2tabbed13 AppleScripts. Then the tabbed2gdms Perl script is run. This Perl script maps the data from IRIS based on the mapping that can be found in the IRIS to GDMS mapping Word document. This document was generated as part of the IRIS Export for project '2006-08-01-RMDS_pt8'.The records were then transformed from GDMS into MODS by Digital Curation Services, using JacksonDavis.xsl. Normalized 2019-11-15T21:11:54 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:59:56. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T17:04. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T18:18:10.</recordOrigin>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="iso8601">20130605</recordCreationDate>
+   </recordInfo>
+</mods>

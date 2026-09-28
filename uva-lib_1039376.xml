@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+   <typeOfResource>still image</typeOfResource>
+   <titleInfo>
+      <title>A Literary Party at Sir. Joshua Reynolds</title>
+   </titleInfo>
+   <name type="personal" authority="lcnaf">
+      <namePart type="given">William</namePart>
+      <namePart type="family">Walker</namePart>
+      <namePart type="date">1791-1867</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">egr</roleTerm>
+      </role>
+   </name>
+   <genre authority="lctgm">Glass negatives</genre>
+   <name type="personal" authority="lcnaf">
+      <namePart type="given">Rufus W.</namePart>
+      <namePart type="family">Holsinger</namePart>
+      <namePart type="date">1866-1930</namePart>
+   </name>
+   <physicalDescription>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <note displayLabel="staff">1910 Photograph.</note>
+   <abstract>[A literary party at Sir. Joshua Reynolds] / engraved by Wm. Walker from a picture by James E. Doyle in the possession of James Prior Esqre. F.A.S. Group portrait of nine men seated around a table set with fruit and decanters; they are served by a black page. Boswell is on the left, with Johnson to his right talking to Edmund Burke; Reynolds is seated across from Johnson and listens with a trumpet to his ear. Garrick to the left of Reynolds faces the viewer, while Pasquale Paoli to his left observes Johnson conversing at the far end of the table. Charles Burney across from Paoli also follows the same conversation, as he rests his right hand on his chin. Next to Paoli, Warton leans toward Oliver Goldsmith who sits at the head of the table on the right; Warton holds his hand up towards his mouth as if to keep his words confidential. The room is richly decorated with a Japanese screen on the right, curtains, a miniature portrait, and a portrait bust on a pedestal on the left; Reynolds' pictures of Puck (Mannings 2142) and the Infant Academy (Mannings 2092) hanging on the wall and a bright chandelier hangs above the table. London : Published July 1st 1848 by the proprietors Wm. Walker, 64 Margaret St., Cavendish Sqre., &amp; Owen Bailey, 128 Seymour St. Euston Sqre, [1 July 1848].</abstract>
+   <subject authority="lcsh">
+      <topic>Prints</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="lcnaf">
+         <namePart>Holsinger Studio (Charlottesville, Va.)</namePart>
+      </name>
+   </subject>
+   <identifier type="local" displayLabel="Digitization Services Archive Filename">000007690_0132.tif</identifier>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <originInfo>
+      <publisher>The Rector and Visitors of the University of Virginia</publisher>
+      <place>
+         <placeTerm type="text">Charlottesville, Va.</placeTerm>
+      </place>
+   </originInfo>
+   <relatedItem type="original" displayLabel="Original">
+      <identifier type="legacy" displayLabel="Negative Number">U00165D</identifier>
+      <identifier type="legacy" displayLabel="Special Collections legacy database record number"
+                  invalid="yes">111</identifier>
+      <physicalDescription>
+         <form authority="marccategory">nonprojected graphic</form>
+         <extent>14 x 17 in.</extent>
+      </physicalDescription>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Charlottesville, Va.</placeTerm>
+         </place>
+         <dateCreated encoding="edtf" keyDate="yes">1848-07-01</dateCreated>
+      </originInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Part of" type="host">
+      <typeOfResource collection="yes">mixed material</typeOfResource>
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Holsinger Studio Collection</title>
+      </titleInfo>
+      <name type="personal" authority="lcnaf">
+         <namePart type="given">Rufus W.</namePart>
+         <namePart type="family">Holsinger</namePart>
+         <namePart type="date">1866-1930</namePart>
+      </name>
+      <originInfo>
+         <dateCreated encoding="edtf">1889/1939</dateCreated>
+      </originInfo>
+      <location>
+         <physicalLocation>Special Collections, University of Virginia Library, Charlottesville, Va.</physicalLocation>
+      </location>
+      <identifier type="accession number" displayLabel="Collection Accession Number">MSS 9862</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordOrigin>Normalized 2019-11-15T20:47:14 using normalizeMODS.xsl, 0.1 beta. Dates modified by mods2modsFixDates.xsl, 0.1 beta 2020-04-21T15:34:52. Incorrect collection information removed by trackSys_MODS_repair.xsl, v. 0.01 2021-04-19T16:00. TrackSys and Virgo identifiers, accessCondition and url elements removed, and 'Xndated' in date elements replaced by 'undated' using trackSys_MODS_repair03.xsl, v. 0.01 2021-05-12T17:38:30.</recordOrigin>
+      <recordContentSource>University of Virginia Library</recordContentSource>
+      <recordCreationDate encoding="iso8601">2006-11-14T4:22:46TPM</recordCreationDate>
+      <recordChangeDate encoding="iso8601">2009-07-20T12:21:54.437-04:00</recordChangeDate>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
