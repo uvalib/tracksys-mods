@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
       <title>Curette</title>
@@ -10,7 +11,7 @@
       <digitalOrigin>born digital</digitalOrigin>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject authority="lcsh">
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85082949">
       <topic>Medical instruments or apparatus</topic>
    </subject>
    <originInfo>
@@ -20,18 +21,17 @@
       </place>
    </originInfo>
    <relatedItem type="original" displayLabel="Original">
-      <name authority="lcnaf" type="personal">
+      <name authority="lcnaf" type="personal" valueURI="http://id.loc.gov/authorities/names/n2011186755">
          <namePart>Gemrig, J. H.</namePart>
-         <role>
-            <roleTerm type="text" authority="marcrelator">Manufacturer</roleTerm>
+         <role>            
             <roleTerm type="code" authority="marcrelator">mfr</roleTerm>
          </role>
       </name>
-      <genre authority="aat">medical equipment</genre>
+      <genre authority="aat" valueURI="https://vocab.getty.edu/aat/300247523">medical equipment</genre>
       <typeOfResource>three dimensional object</typeOfResource>
       <identifier type="legacy" displayLabel="retrieval ID">artifacts00890</identifier>
       <physicalDescription>
-         <form type="material" authority="aat">metal</form>
+         <form type="material" authority="aat" valueURI="http://vocab.getty.edu/aat/300010900">metal</form>
          <extent>0.2 x 10 x 0.9 cm</extent>
       </physicalDescription>
       <originInfo>
@@ -57,5 +57,6 @@
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
       <recordCreationDate encoding="w3cdtf">2016-06-27</recordCreationDate>
+      <recordIdentifier source="PID">uva-lib:2838172</recordIdentifier>
    </recordInfo>
 </mods>
