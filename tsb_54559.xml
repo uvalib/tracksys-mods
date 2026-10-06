@@ -74,5 +74,6 @@
       <languageOfCataloging>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </languageOfCataloging>
+      <recordIdentifier source="PID">tsb:54559</recordIdentifier>
    </recordInfo>
 </mods>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
       <title>Phi Beta Pi Fraternity</title>
    </titleInfo>
-   <name type="personal" authority="lcnaf">
+   <name type="personal" authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/no94027701">
       <namePart type="given">Rufus W.</namePart>
       <namePart type="family">Holsinger</namePart>
-      <namePart type="date">1866-1930</namePart>
+      <namePart type="date">1866-1930</namePart>      
       <role>
-         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+         <roleTerm type="code" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">photographer</roleTerm>         
       </role>
    </name>
    <genre authority="lctgm">Glass negatives</genre>
@@ -65,7 +66,7 @@
          <dateCreated encoding="edtf" keyDate="yes">1912-05-23</dateCreated>
       </originInfo>
    </relatedItem>
-   <relatedItem displayLabel="Part of" type="host">
+   <relatedItem displayLabel="Part of" type="host">      
       <typeOfResource collection="yes">mixed material</typeOfResource>
       <titleInfo>
          <nonSort>The</nonSort>
