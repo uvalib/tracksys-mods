@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,40 +19,31 @@
    <abstract>Full view, School wagons</abstract>
    <subject>
       <topic>Henrico County (Va.)</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Virginia</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Varina Agricultural High School (Henrico County (Va.))</topic>
-      <topic>Single built works by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Schools</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Institutional buildings</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Buildings</topic>
-      <topic>Single built works</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Education</topic>
-      <topic>Social sciences</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>South (U.S.)</topic>
-      <topic>Regions and states</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>African Americans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

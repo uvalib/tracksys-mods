@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,20 +19,16 @@
    <abstract>Full view, bright high contrast view of a building front</abstract>
    <subject>
       <topic>Buildings</topic>
-      <topic>Single built works</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Trees</topic>
-      <topic>Trees and shrubs</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Wheels</topic>
-      <topic>Components by specific context</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Schools</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

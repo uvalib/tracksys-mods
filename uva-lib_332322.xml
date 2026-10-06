@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,28 +19,22 @@
    <abstract>Full view, figures on a porch seen from the garden</abstract>
    <subject>
       <topic>Africa</topic>
-      <topic>Continents</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Paths</topic>
-      <topic>Open spaces by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Gardens</topic>
-      <topic>Open spaces and site elements</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Dwellings</topic>
-      <topic>Single built works</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Shrubs</topic>
-      <topic>Trees and shrubs</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Porches</topic>
-      <topic>Rooms and spaces</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

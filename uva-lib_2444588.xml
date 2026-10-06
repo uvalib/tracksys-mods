@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -29,10 +28,7 @@
       </name>
    </subject>
    <subject>
-      <name>
-         <namePart>Neilson, John</namePart>
-      </name>
-   </subject>
+      </subject>
    <subject authority="lcsh">
       <name type="personal" authority="lcnaf">
          <namePart>Cocke, John Hartwell, 1780-1866</namePart>

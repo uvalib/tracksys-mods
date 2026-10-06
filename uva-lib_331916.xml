@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,36 +19,28 @@
    <abstract>Full view</abstract>
    <subject>
       <topic>Clayton (Ga.)</topic>
-      <topic>Cities and towns by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Georgia</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Envelopes</topic>
-      <topic>Containers by function or context</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>South (U.S.)</topic>
-      <topic>Regions and states</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Pens</topic>
-      <topic>Image-making equipment</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Paper (Fiber product)</topic>
-      <topic>Materials by form</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Davis, Jackson, 1882-1947</topic>
-      <topic>People by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Wives</topic>
-      <topic>People by family relationship</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

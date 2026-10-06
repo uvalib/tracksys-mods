@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,28 +19,22 @@
    <abstract>Full view, group sitting with tea</abstract>
    <subject>
       <topic>New York (N.Y.)</topic>
-      <topic>Cities and towns by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>New York</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Hospitals</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Tea</topic>
-      <topic>Beverages</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Chairs</topic>
-      <topic>Furniture</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Tables</topic>
-      <topic>Furniture</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

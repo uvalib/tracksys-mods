@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,28 +19,22 @@
    <abstract>Full view</abstract>
    <subject>
       <topic>Davis, Alexander Jackson</topic>
-      <topic>People by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Wives</topic>
-      <topic>People by family relationship</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Women</topic>
-      <topic>People by gender</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Portraits</topic>
-      <topic>Visual works by subject types</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Mirrors</topic>
-      <topic>Furnishings by form or function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>VANITY TABLES</topic>
-      <topic>X</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

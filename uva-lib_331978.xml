@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,22 +19,17 @@
    <abstract>Full view</abstract>
    <subject>
       <topic>Schools</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Steps</topic>
-      <topic>Components by specific context</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Education</topic>
-      <topic>Social sciences</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Institutional buildings</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
-      <topic>Children (people by age group)</topic>
       <topic>People by age group</topic>
    </subject>
    <originInfo>

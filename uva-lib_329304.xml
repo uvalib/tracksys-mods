@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,44 +19,34 @@
    <abstract>Full view</abstract>
    <subject>
       <topic>Goochland County (Va.)</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Virginia</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Unknown School (Goochland County (Va.))</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>South (U.S.)</topic>
-      <topic>Regions and states</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>African Americans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Costume</topic>
-      <topic>Costume in general</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Dresses</topic>
-      <topic>Costume by form</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Baskets</topic>
-      <topic>Containers by form</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Tables</topic>
-      <topic>Furniture</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Boys</topic>
-      <topic>People by gender</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Courthouses</topic>
    </subject>

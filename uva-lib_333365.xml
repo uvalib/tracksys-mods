@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,26 +19,20 @@
    <abstract>Full view</abstract>
    <subject>
       <topic>Schools</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Africa</topic>
-      <topic>Continents</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Africans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>African Americans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Books</topic>
-      <topic>Information artifacts</topic>
-   </subject>
+      </subject>
    <subject>
-      <topic>Children (people by age group)</topic>
       <topic>People by age group</topic>
    </subject>
    <originInfo>

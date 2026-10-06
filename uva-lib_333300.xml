@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,40 +19,31 @@
    <abstract>Full view, group of figures stands outside a car in a field</abstract>
    <subject>
       <topic>Stony Point (N.C.)</topic>
-      <topic>Cities and towns by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Alexander County (N.C.)</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>North Carolina</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Schools</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>South (U.S.)</topic>
-      <topic>Regions and states</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>African Americans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Automobiles</topic>
-      <topic>Land vehicles</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Agricultural land</topic>
-      <topic>Cultural landscapes</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Fences</topic>
-      <topic>Open spaces and site elements</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

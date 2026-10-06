@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,20 +19,16 @@
    <abstract>Full view, two men interacting with a piece of wood while two others watch</abstract>
    <subject>
       <topic>Wood (plant material)</topic>
-      <topic>Materials by origin</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Open spaces</topic>
-      <topic>Open spaces and site elements</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Trees</topic>
-      <topic>Trees and shrubs</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Men</topic>
-      <topic>People by gender</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <mods xmlns="http://www.loc.gov/mods/v3" version="3.6">
    <typeOfResource>still image</typeOfResource>
    <titleInfo>
@@ -20,36 +19,28 @@
    <abstract>Full view, outhouse in corner of lot</abstract>
    <subject>
       <topic>Chesterfield County (Va.)</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Virginia</topic>
-      <topic>Regions and states by name</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Unknown School (Chesterfield County (Va.))</topic>
-      <topic>Single built works by function</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>South (U.S.)</topic>
-      <topic>Regions and states</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>African Americans</topic>
-      <topic>People by ethnic group</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Outhouses</topic>
-      <topic>Single built works by location or context</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Buildings</topic>
-      <topic>Single built works</topic>
-   </subject>
+      </subject>
    <subject>
       <topic>Education</topic>
-      <topic>Social sciences</topic>
-   </subject>
+      </subject>
    <originInfo>
       <publisher>The Rector and Visitors of the University of Virginia</publisher>
       <place>
